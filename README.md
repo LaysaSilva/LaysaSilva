@@ -1,5 +1,5 @@
 
-![imagem](./assets/imagem.jpg)
+![imagem](./assets/PerfilGithub.png)
 
 
 <p align="center"><p>Entusiasta em programação front-end, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript. Apaixonada por criar interfaces visuais e motivada a aprender cada vez mais sobre o desenvolvimento Web!</p>&nbsp;
