@@ -1,5 +1,6 @@
 
-
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LaysaSilva/LaysaSilva/blob/782b78185037c6c85e874334fa843b60c4587b74/assets/PerfilGithub.png" />
+&nbsp;&nbsp;&nbsp;
 
 <p align="center"><p>Entusiasta em programação front-end, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript. Apaixonada por criar interfaces visuais e motivada a aprender cada vez mais sobre o desenvolvimento Web!</p>&nbsp;
 
