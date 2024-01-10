@@ -1,8 +1,6 @@
 
 <h1>Olá, eu sou Laysa, seja bem vindo(a) ao meu Github! </h1>
 
-<br>
-
 <p align="center"><p>Entusiasta em programação <strong>front-end</strong>, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript. Sou paixonada por criar interfaces visuais e motivada a aprender cada vez mais sobre o desenvolvimento Web!</p>&nbsp;
 <br>
 <div  align="center" style="margin-bottom:100px">
