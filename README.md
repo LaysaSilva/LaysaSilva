@@ -1,16 +1,16 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LaysaSilva/LaysaSilva/blob/70900edc573f18d4dc46e634c3a132bba5de63ab/assets/PerfilGithub.gif" />
-&nbsp;&nbsp;&nbsp;
+<h1>Olá, eu sou Laysa, seja bem vindo(a) ao meu Github! </h1>
 
-<p align="center"><p>Entusiasta em programação front-end, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript. Apaixonada por criar interfaces visuais e motivada a aprender cada vez mais sobre o desenvolvimento Web!</p>&nbsp;
+<br>
 
+<p align="center"><p>Entusiasta em programação <strong>front-end</strong>, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript. Sou paixonada por criar interfaces visuais e motivada a aprender cada vez mais sobre o desenvolvimento Web!</p>&nbsp;
+<br>
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LaysaSilva&theme=radical&mode=weekly" />
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysaSilva&layout=compact&theme=radical" />
+
+<img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysaSilva&layout=compact&theme=radical" />
+
 </div>
 
-
- </div>
  
  &nbsp;
  &nbsp;
@@ -38,12 +38,17 @@
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23D4A017?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+
 
 
 #### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
 
 
@@ -51,6 +56,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-555555?style=for-the-badge&logo=codeblocks&logoColor=white)
 
 
 &nbsp;
