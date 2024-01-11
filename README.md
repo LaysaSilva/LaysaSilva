@@ -4,10 +4,17 @@
 <p align="center"><p>Entusiasta em programação <strong>front-end</strong>, buscando aprimorar minhas habilidades em HTML, CSS e JavaScript. Sou paixonada por criar interfaces visuais e motivada a aprender cada vez mais sobre o desenvolvimento Web!</p>&nbsp;
 <br>
 <div  align="center" style="margin-bottom:100px">
-
+<p>
 <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysaSilva&layout=compact&theme=radical" />
+</p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaysaSilva&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Laysa" style="border: 1px solid #ebedf0" />
+</p>
 
 </div>
+
+
 
  
  &nbsp;
