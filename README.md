@@ -2,7 +2,7 @@
 <h1>Olá, eu sou Laysa, seja bem vindo(a) ao meu Github! 👋</h1>
 
 <p align="center"><p>
-  <ul>🚀 Sou uma desenvolvedora front-end apaixonado por criar experiências incríveis para os usuários. Com profundo conhecimento em tecnologias como HTML, CSS e JavaScript, estou constantemente buscando inovações para tornar a web mais interativa e atraente.</ul>
+  <ul>🚀 Sou uma desenvolvedora front-end apaixonado por criar experiências incríveis para os usuários. Com profundo conhecimento em tecnologias como HTML, CSS e JavaScript, estou constantemente buscando inovações para tornar a web mais interativa e atraente. </ul>
 
   <ul>💼 Além do front-end, tenho conhecimento em banco de dados SQL, Power BI e Excel. Desenvolvo soluções eficientes que combinam uma interface elegante com um backend sólido, proporcionando experiências excepcionais.</ul>
 
