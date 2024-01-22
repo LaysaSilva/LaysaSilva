@@ -2,9 +2,9 @@
 <h1>Olá, eu sou Laysa, seja bem vindo(a) ao meu Github!👋</h1>
 
 <p align="center"><p>
-  <ul>🚀 Sou uma desenvolvedora front-end apaixonado por criar experiências incríveis para os usuários. Com profundo conhecimento em tecnologias como HTML, CSS e JavaScript, estou constantemente buscando inovações para tornar a web mais interativa e atraente. </ul>
+  <ul>🚀 Sou uma desenvolvedora apaixonada por criar experiências incríveis para os usuários. Tenho profundo conhecimento em tecnologias como HTML, CSS e JavaScript. Atualmente estou estudando JavaFX utilizando a IDE NetBeans. </ul>
 
-  <ul>💼 Além do front-end, tenho conhecimento em banco de dados SQL, Power BI e Excel. Desenvolvo soluções eficientes que combinam uma interface elegante com um backend sólido, proporcionando experiências excepcionais.</ul>
+  <ul>💼 Além do front-end e Java, sei usar Banco de dados SQL, Power BI e Excel para análise de dados. Desenvolvo soluções eficientes que combinam uma interface elegante com um backend sólido, proporcionando experiências excepcionais.</ul>
 
 </p>&nbsp;
 <br>
@@ -12,6 +12,9 @@
 <p>
 <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysaSilva&layout=compact&theme=radical" />
 </p>
+
+
+  
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaysaSilva&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Laysa" style="border: 1px solid #ebedf0" />
@@ -67,6 +70,12 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-555555?style=for-the-badge&logo=codeblocks&logoColor=white)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ%20-purple?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
+
+
+
+
 
 
 
