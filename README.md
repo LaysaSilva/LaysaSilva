@@ -1,5 +1,5 @@
 
-<h1>Olá, eu sou Laysa, seja bem vindo(a) ao meu Github!👋</h1>
+<h1>Olá, eu sou Laysa, seja bem vindo(a) ao meu Github!👋</h1> 
 
 <p align="center"><p>
   <ul>🚀 Sou uma desenvolvedora apaixonada por criar experiências incríveis para os usuários. Tenho profundo conhecimento em tecnologias como HTML, CSS e JavaScript. Atualmente estou estudando JavaFX utilizando a IDE NetBeans. </ul>
