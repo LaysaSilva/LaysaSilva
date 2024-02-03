@@ -9,9 +9,6 @@
 </p>&nbsp;
 <br>
 <div  align="center" style="margin-bottom:100px">
-<p>
-<img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysaSilva&layout=compact&theme=radical" />
-</p>
 
 
   
