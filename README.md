@@ -18,11 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LaysaSilva&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Laysa" style="border: 1px solid #ebedf0" />
 </p>
 
+
 <p align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysaSilva&layout=compact&theme=radical" />
 </p>
-
-
 
 
 </div>
