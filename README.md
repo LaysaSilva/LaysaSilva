@@ -4,7 +4,7 @@
 <p align="center"><p>
   <ul>🚀 Sou uma desenvolvedora apaixonada por criar experiências incríveis para os usuários. Tenho profundo conhecimento em tecnologias como HTML, CSS e JavaScript. Atualmente estou estudando JavaFX utilizando a IDE NetBeans. </ul>
 
-  <ul>💼 Além do front-end e Java, sei usar Banco de dados SQL, Power BI e Excel para análise de dados. Desenvolvo soluções eficientes que combinam uma interface elegante com um backend sólido, proporcionando experiências excepcionais.</ul>
+  <ul>💼 Além do front-end e Java, sei usar Banco de dados SQL, Power BI e Excel para análise de dados. Tenho forte comprometimento em trabalhos em equipe, cooperando com colegas e ajudando da melhor maneira que eu puder, prezando sempre no ensinamento e aprendizado.
 
 </p>&nbsp;
 <br>
